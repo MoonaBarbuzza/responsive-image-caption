@@ -23,13 +23,13 @@ body {
   margin: 0;
 }
 
-img {
+.img-flex {
   width: 100%;
   display: block;
 }
 
 p {
-  font-family: serif; Georgia;
+  font-family: Georgia, serif;
 }
 
 h2 {
